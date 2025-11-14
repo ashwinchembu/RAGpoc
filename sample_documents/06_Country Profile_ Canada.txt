@@ -1,0 +1,34 @@
+Title: Country Profile: Canada
+Source: REST Countries API
+URL: https://restcountries.com/
+
+============================================================
+
+Country: Canada
+
+Official Name: Canada
+
+Capital: Ottawa
+
+Region: Americas
+Subregion: North America
+
+Population: 41,651,653
+
+Area: 9,984,670.0 km²
+
+Languages: English, French
+
+Currencies: Canadian dollar ($)
+
+Timezones: UTC-08:00, UTC-07:00, UTC-06:00, UTC-05:00, UTC-04:00, UTC-03:30
+
+Borders: USA
+
+Top Level Domain: .ca
+
+Calling Code: +
+
+Independent: Yes
+
+UN Member: Yes

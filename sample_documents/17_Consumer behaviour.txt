@@ -1,0 +1,15 @@
+Title: Consumer behaviour
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Consumer_behaviour
+
+============================================================
+
+Consumer behaviour is the study of individuals, groups, or organisations and all activities associated with the purchase, use and disposal of goods and services. It encompasses how the consumer's emotions, attitudes, and preferences affect buying behaviour, and how external cues—such as visual prompts, auditory signals, or tactile (haptic) feedback—can shape those responses. Consumer behaviour emerged in the 1940–1950s as a distinct sub-discipline of marketing, but has become an interdisciplinary social science that blends elements from psychology, sociology, social anthropology, anthropology, ethnography, ethnology, marketing, and economics (especially behavioural economics).
+The study of consumer behaviour formally investigates individual qualities such as demographics, personality lifestyles, and behavioural variables (like usage rates, usage occasion, loyalty, brand advocacy, and willingness to provide referrals), in an attempt to understand people's wants and consumption patterns. Consumer behaviour also investigates on the influences on the consumer, from social groups such as family, friends, sports, and reference groups, to society in general (brand-influencers, opinion leaders).
+Due to the unpredictability of consumer behavior, marketers and researchers use ethnography, consumer neuroscience, and machine learning, along with customer relationship management (CRM) databases, to analyze customer patterns. The extensive data from these databases allows for a detailed examination of factors influencing customer loyalty, re-purchase intentions, and other behaviors like providing referrals and becoming brand advocates. Additionally, these databases aid in market segmentation, particularly behavioral segmentation, enabling the creation of highly targeted and personalized marketing strategies.
+
+
+Origins of consumer behaviour
+
+In the 1940s and 1950s, marketing was dominated by the so-called classical schools of thought which were highly descriptive and relied heavily on case study approaches with only occasional use of interview methods. At the end of the 1950s, two important reports criticised marketing for its lack of methodological rigor, especially the failure to adopt mathematically-oriented behavioural science research methods. The stage was set for marketing to become more inter-disciplinary by adopting a consumer-behaviourist perspective.
+From the 1950s, marketing began to shift its reliance away from economics and towards other disciplines, notably the behavioural sciences, including sociology, anthropology, and clinical psychology. This resulted in a new emphasis on the customer as a unit of analysis. As a result, new substantive knowledge was added to the marketing discipline – including such ideas as opinion leadership, reference groups, and brand loyalty. Market segmentation, especially demographic segmentation based on socioeconomic status (SES) index and household life-cycle, also became fashionable. With the addition of consumer b

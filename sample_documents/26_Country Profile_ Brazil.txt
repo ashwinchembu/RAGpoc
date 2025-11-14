@@ -1,0 +1,34 @@
+Title: Country Profile: Brazil
+Source: REST Countries API
+URL: https://restcountries.com/
+
+============================================================
+
+Country: Brazil
+
+Official Name: Federative Republic of Brazil
+
+Capital: Brasília
+
+Region: Americas
+Subregion: South America
+
+Population: 213,421,037
+
+Area: 8,515,767.0 km²
+
+Languages: Portuguese
+
+Currencies: Brazilian real (R$)
+
+Timezones: UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00
+
+Borders: ARG, BOL, COL, GUF, GUY, PRY, PER, SUR, URY, VEN
+
+Top Level Domain: .br
+
+Calling Code: +5
+
+Independent: Yes
+
+UN Member: Yes

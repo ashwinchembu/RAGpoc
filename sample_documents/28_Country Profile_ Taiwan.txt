@@ -1,0 +1,34 @@
+Title: Country Profile: Taiwan
+Source: REST Countries API
+URL: https://restcountries.com/
+
+============================================================
+
+Country: Taiwan
+
+Official Name: Republic of China (Taiwan)
+
+Capital: Taipei
+
+Region: Asia
+Subregion: Eastern Asia
+
+Population: 23,317,031
+
+Area: 36,197.0 km²
+
+Languages: Chinese
+
+Currencies: New Taiwan dollar ($)
+
+Timezones: UTC+08:00
+
+Borders: No land borders
+
+Top Level Domain: .tw, .台灣, .台湾
+
+Calling Code: +86
+
+Independent: No
+
+UN Member: No

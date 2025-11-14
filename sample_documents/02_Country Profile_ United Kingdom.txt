@@ -1,0 +1,34 @@
+Title: Country Profile: United Kingdom
+Source: REST Countries API
+URL: https://restcountries.com/
+
+============================================================
+
+Country: United Kingdom
+
+Official Name: United Kingdom of Great Britain and Northern Ireland
+
+Capital: London
+
+Region: Europe
+Subregion: Northern Europe
+
+Population: 69,281,437
+
+Area: 244,376.0 km²
+
+Languages: English
+
+Currencies: British pound (£)
+
+Timezones: UTC-08:00, UTC-05:00, UTC-04:00, UTC-03:00, UTC-02:00, UTC, UTC+01:00, UTC+02:00, UTC+06:00
+
+Borders: IRL
+
+Top Level Domain: .uk
+
+Calling Code: +4
+
+Independent: Yes
+
+UN Member: Yes

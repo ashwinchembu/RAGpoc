@@ -1,0 +1,284 @@
+PRIVACY POLICY
+
+Your privacy is important to us. This policy explains how we collect, use, and protect your personal information.
+
+Information We Collect:
+
+Account Information:
+- Name
+- Email address
+- Phone number
+- Password (encrypted)
+- Date of birth (optional)
+- Profile photo (optional)
+
+Payment Information:
+- Billing address
+- Shipping address
+- Payment method (tokenized)
+- Transaction history
+- No full card numbers stored
+
+Usage Data:
+- Pages visited
+- Products viewed
+- Search queries
+- Cart activities
+- Device information
+- IP address
+- Browser type
+- Operating system
+
+How We Use Your Information:
+
+Order Processing:
+- Fulfill your orders
+- Process payments
+- Send confirmations
+- Provide customer service
+- Handle returns
+
+Communication:
+- Order updates
+- Shipping notifications
+- Promotional emails (with consent)
+- Customer service responses
+- Account notifications
+
+Personalization:
+- Product recommendations
+- Customized content
+- Relevant offers
+- Shopping experience improvement
+- Size recommendations
+
+Improvement:
+- Website optimization
+- New feature development
+- A/B testing
+- Analytics
+- User experience research
+
+Data Sharing:
+
+We Never Sell Your Data
+
+Limited Sharing With:
+
+Service Providers:
+- Payment processors
+- Shipping carriers
+- Email service providers
+- Customer service platforms
+- Analytics services
+- All under NDA
+
+Legal Requirements:
+- Law enforcement (when required)
+- Fraud prevention
+- Protect our rights
+- Comply with regulations
+
+Business Transfers:
+- Merger or acquisition
+- Asset sale
+- Your rights maintained
+
+Your Privacy Rights:
+
+Access Your Data:
+- Request copy of your data
+- Download in portable format
+- Review all information
+- Response within 30 days
+
+Delete Your Data:
+- Request account deletion
+- Erase personal information
+- Some data may be retained for legal reasons
+- Confirmation sent when complete
+
+Correct Your Data:
+- Update inaccurate information
+- Add missing information
+- Modify preferences
+- Real-time updates
+
+Object to Processing:
+- Opt out of marketing
+- Limit data collection
+- Restrict certain uses
+- Maintain essential services
+
+Data Portability:
+- Export your data
+- Machine-readable format
+- Transfer to another service
+- CSV or JSON available
+
+Withdraw Consent:
+- Revoke permissions anytime
+- Unsubscribe from emails
+- Disable cookies
+- Opt out of personalization
+
+Data Security:
+
+Protection Measures:
+- 256-bit SSL encryption
+- Secure data centers
+- Regular security audits
+- Employee training
+- Access controls
+- Firewall protection
+- Intrusion detection
+- Regular backups
+
+Payment Security:
+- PCI DSS compliant
+- Tokenized transactions
+- No full card storage
+- 3D Secure authentication
+- Fraud monitoring
+
+Account Security:
+- Encrypted passwords
+- Two-factor authentication
+- Login alerts
+- Session management
+- Suspicious activity monitoring
+
+Data Retention:
+
+How Long We Keep Data:
+- Account data: While account active
+- Order history: 7 years (legal requirement)
+- Marketing data: Until you unsubscribe
+- Analytics: Aggregated, no personal identifiers
+- Inactive accounts: Deleted after 3 years
+
+Deletion Process:
+- Secure data deletion
+- Permanent removal
+- Backup purging
+- Confirmation provided
+
+Cookies and Tracking:
+
+Types of Cookies:
+
+Essential Cookies:
+- Required for website function
+- Shopping cart
+- Account login
+- Security
+- Cannot be disabled
+
+Preference Cookies:
+- Remember your settings
+- Language preference
+- Currency selection
+- Display options
+
+Analytics Cookies:
+- Usage statistics
+- Performance monitoring
+- Error tracking
+- Improvement insights
+- Can be disabled
+
+Marketing Cookies:
+- Personalized ads
+- Retargeting
+- Conversion tracking
+- Social media integration
+- Can be disabled
+
+Managing Cookies:
+- Cookie preference center
+- Browser settings
+- Opt-out links
+- Third-party opt-outs
+
+Third-Party Services:
+
+We Use:
+- Google Analytics
+- Facebook Pixel
+- Stripe (payments)
+- Mailchimp (email)
+- Zendesk (support)
+- All with privacy agreements
+
+Their Privacy Policies:
+- Linked on our website
+- Govern their data practices
+- Not controlled by us
+- Review independently
+
+Children's Privacy:
+
+- Website not intended for under 13
+- No knowing collection from children
+- Parent verification required
+- COPPA compliant
+- Report if we inadvertently collect
+- Immediate deletion
+
+International Data:
+
+Data Transfers:
+- Primary servers in United States
+- Adequate safeguards in place
+- EU-US Privacy Shield (where applicable)
+- Standard contractual clauses
+- Encryption in transit
+
+GDPR Compliance:
+- European users' rights honored
+- Data Protection Officer appointed
+- Legal basis for processing
+- Right to lodge complaint
+- Supervisory authority contact
+
+CCPA Compliance:
+- California residents' rights
+- Do Not Sell My Info
+- Non-discrimination
+- Authorized agent requests accepted
+
+Updates to Policy:
+
+Policy Changes:
+- Notice via email
+- Notice on website
+- 30 days before effective
+- Continued use = acceptance
+- Major changes require re-consent
+
+Version History:
+- Previous versions available
+- Change log maintained
+- Effective dates noted
+
+Contact:
+
+Privacy Questions:
+- Email: privacy@company.com
+- Phone: 1-800-PRIVACY
+- Mail: Privacy Officer, [Address]
+- Response within 30 days
+
+Data Requests:
+- Submit at company.com/privacy-request
+- Identity verification required
+- Processing time: 30 days
+- Free of charge
+
+Data Protection Officer:
+- dpo@company.com
+- Available for EU residents
+- GDPR-related inquiries
+
+Last Updated: January 2024
+Effective Date: January 1, 2024

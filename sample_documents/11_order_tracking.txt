@@ -1,0 +1,422 @@
+ORDER TRACKING
+
+Tracking Your Order
+
+When Tracking Becomes Available
+- Order confirmation sent immediately
+- Tracking number issued when order ships
+- Usually within 24 hours of order
+- Email with tracking link
+- SMS notification available
+
+Tracking Methods
+1. Email Link
+   - Click tracking link in shipping confirmation
+   - Directs to carrier website
+   - Real-time updates
+
+2. Website Tracking
+   - Log into your account
+   - View "My Orders"
+   - Click on order number
+   - See current status
+
+3. Mobile App
+   - Real-time push notifications
+   - Map view of package location
+   - Estimated delivery time
+   - Photo proof of delivery
+
+4. Text/SMS
+   - Opt-in for SMS updates
+   - Text TRACK to 12345
+   - Receive status updates
+   - Delivery alerts
+
+Order Status Definitions
+
+Order Received
+- Your order has been placed
+- Payment authorized
+- Preparing for processing
+- Estimated ship date provided
+
+Processing
+- Order being prepared
+- Items being gathered
+- Quality check performed
+- Packaging in progress
+
+Shipped
+- Package left our facility
+- In carrier possession
+- Tracking number active
+- En route to you
+
+In Transit
+- Package traveling to destination
+- Multiple scan points
+- May pass through hubs
+- Updates every 24 hours
+
+Out for Delivery
+- On delivery truck
+- Arriving today
+- Delivery window provided
+- Driver assigned
+
+Delivered
+- Package delivered successfully
+- Signature obtained (if required)
+- Photo proof available
+- Left at specified location
+
+Tracking Issues
+
+Tracking Not Updating
+If tracking shows no movement for 48+ hours:
+- Weather delays possible
+- Holiday shipping surge
+- Carrier scanning issues
+- Package may still be moving
+
+What to do:
+1. Wait 48 hours from last scan
+2. Check carrier website directly
+3. Contact carrier customer service
+4. Contact our support if needed
+
+Lost Package
+Package marked as lost if:
+- No scans for 7+ days
+- Carrier confirms loss
+- Investigation completed
+
+We will:
+- Send immediate replacement (in-stock items)
+- Issue full refund (out-of-stock items)
+- Expedited shipping on replacement
+- No cost to you
+
+Damaged Package
+If package arrives damaged:
+1. Take photos immediately
+2. Note damage on delivery receipt
+3. Contact us within 48 hours
+4. Keep all packaging
+5. We'll arrange pickup and replacement
+
+Wrong Address
+If you provided wrong address:
+- Contact us within 2 hours of order
+- Address correction possible before ship
+- After shipping: Contact carrier
+- Return to sender: Will be reshipped (shipping fees apply)
+
+Delivery Information
+
+Standard Delivery
+- Left at door/porch
+- Signature not required
+- Safe place preferred
+- Delivery notes followed
+- Photo proof available
+
+Signature Required
+For orders over $200:
+- Someone must sign
+- Delivery attempts: 3
+- ID may be required
+- Hold for pickup option
+- Schedule delivery available
+
+Delivery Instructions
+Provide special instructions:
+- Gate code
+- Building number
+- Leave at side door
+- Don't ring doorbell
+- Safe place description
+- Neighbor delivery authorization
+
+Failed Delivery Attempts
+
+First Attempt
+- Delivery notice left
+- Redelivery next business day
+- Update tracking preferences
+- Provide access instructions
+
+Second Attempt
+- Second delivery notice left
+- Redelivery scheduled
+- Contact carrier if needed
+- Hold for pickup available
+
+Third Attempt
+- Package held at facility
+- Pickup location assigned
+- 5-7 day hold period
+- Return to sender after hold period
+
+Alternate Pickup Options
+- Carrier store pickup
+- Locker delivery
+- Hold at facility
+- Neighbor delivery
+- Schedule specific day
+
+International Tracking
+
+Customs Processing
+International orders include:
+- Export from origin country
+- Customs clearance
+- Import duties (if applicable)
+- Destination country processing
+
+Tracking may show:
+- "Customs clearance in progress"
+- Delays of 3-7 days normal
+- Duty notification from carrier
+- Final mile delivery
+
+International Carriers
+- DHL: Premium tracking
+- FedEx: Real-time updates
+- USPS: Basic tracking
+- Regional carriers: Varies by country
+
+Customs Delays
+Delays possible for:
+- Inspection requirements
+- Documentation issues
+- Holiday periods
+- High volume times
+
+Package Holds
+
+Vacation Hold
+Going away? Hold your package:
+- Request hold before ship date
+- Maximum 14 days
+- Pick up at facility
+- Or reschedule delivery
+- Free service
+
+Facility Pickup
+Prefer to pick up:
+- Redirect to carrier facility
+- Notification when ready
+- ID required for pickup
+- Available 24-48 hours after arrival
+- Extended hours at some locations
+
+Locker Delivery
+Available in select areas:
+- Secure parcel lockers
+- 24/7 access
+- Notification with code
+- 3-day pickup window
+- Free service
+
+Carrier Information
+
+Major Carriers
+
+UPS
+- Tracking: 1Z + 16 characters
+- Customer service: 1-800-PICK-UPS
+- Hold for pickup: UPS Access Point
+- Delivery changes: UPS My Choice
+- Weekend delivery available
+
+FedEx
+- Tracking: 12 or 15 digits
+- Customer service: 1-800-GO-FEDEX
+- Hold locations: FedEx Office
+- Delivery management: FedEx Delivery Manager
+- Weekend delivery available
+
+USPS
+- Tracking: 20-22 digits
+- Customer service: 1-800-ASK-USPS
+- Hold for pickup: Any post office
+- Informed Delivery: Daily digest
+- Saturday delivery standard
+
+DHL
+- Tracking: 10 digits
+- Customer service: 1-800-CALL-DHL
+- Hold locations: DHL ServicePoint
+- International expertise
+- Express delivery specialists
+
+Carrier Services
+Each carrier offers:
+- Delivery alerts
+- Reroute packages
+- Vacation holds
+- Delivery instructions
+- Signature requirements
+
+Delivery Preferences
+
+Set Up Preferences
+Save your preferences:
+- Preferred delivery location
+- Signature requirements
+- Neighbor delivery authorization
+- Do not ring bell
+- Gate codes/access instructions
+
+Update Any Time
+- Change per order
+- Set account defaults
+- Temporary changes available
+- Multiple addresses saved
+- Delivery notes customizable
+
+Delivery Notifications
+
+Email Alerts
+- Order shipped
+- Out for delivery
+- Delivered
+- Delivery exceptions
+- Pickup ready
+
+SMS Alerts
+- Real-time updates
+- Delivery window
+- Driver nearby
+- Delivered confirmation
+- Issue notifications
+
+Push Notifications
+Through mobile app:
+- Every tracking update
+- Customizable alerts
+- Map view
+- Direct contact with driver (some carriers)
+- Photo at delivery
+
+Tracking History
+
+View Past Orders
+- All historical orders
+- Tracking information saved
+- Delivery dates recorded
+- Reorder easily
+- Print receipts
+
+Proof of Delivery
+Access proof of delivery:
+- Signature (if obtained)
+- Photo of package
+- GPS coordinates
+- Time stamped
+- Download/print available
+
+Return Tracking
+Track returns same way:
+- Return authorization tracking
+- Return shipment tracking
+- Refund processing status
+- Credit applied notification
+
+Order Issues
+
+Missing Items
+If items missing from order:
+- Check all packaging
+- Verify packing slip
+- Contact us within 48 hours
+- Send replacement immediately
+- Or issue refund
+
+Wrong Item Received
+Received wrong item:
+- Contact us immediately
+- Keep incorrect item until replacement ships
+- Return label provided
+- No cost to you
+- Expedited replacement
+
+Stolen Package
+If package shows delivered but not received:
+- Check all possible locations
+- Ask neighbors/building staff
+- Check with family members
+- Wait 24 hours
+- File police report
+- Contact us with report number
+
+Contact Support
+
+Tracking Questions
+Email: tracking@company.com
+Phone: 1-800-TRACK-IT
+Hours: Monday-Friday 9am-6pm EST
+
+Urgent Issues
+If delivery critical:
+- Call 1-800-URGENT-1
+- Explain situation
+- Expedite resolution
+- Alternative arrangements possible
+
+Tips for Smooth Delivery
+
+Before Ordering
+- Verify address accuracy
+- Include apartment/unit number
+- Provide phone number
+- Add delivery notes
+- Consider hold for pickup
+
+After Ordering
+- Monitor tracking
+- Be available on delivery day
+- Arrange neighbor pickup if needed
+- Update carrier preferences
+- Contact us with any concerns
+
+For Best Results
+- Use tracking number, not order number
+- Check spam folder for updates
+- Enable notifications
+- Update delivery preferences
+- Contact us with questions early
+
+Tracking FAQs
+
+Why isn't my tracking number working?
+- May take 24 hours to activate
+- Check for typos
+- Try carrier website directly
+- Contact us if still not working
+
+Why hasn't tracking updated?
+- Carrier scanning delays
+- Moving between facilities
+- Weather delays
+- High volume periods
+
+When will my package arrive?
+- Check estimated delivery date
+- Updates daily
+- Last scan indicates general location
+- Contact carrier for specific info
+
+Can I change delivery address?
+- Before shipping: Yes, contact us
+- After shipping: Contact carrier
+- Some carriers allow address changes
+- Fees may apply
+
+Contact
+Email: tracking@company.com
+Phone: 1-800-TRACK-IT (1-800-872-2548)
+SMS: Text TRACK to 12345
+Available 24/7

@@ -1,0 +1,25 @@
+Title: Warranty
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Warranty
+
+============================================================
+
+In law, a warranty is an expressed or implied promise or assurance of some kind.  The term's meaning varies across legal subjects. In property law, it refers to a covenant by the grantor of a deed. In insurance law, it refers to a promise by the purchaser of an insurance about the thing or person to be insured.
+In contract law, a warranty is a contractual assurance given, typically, by a seller to a buyer, for example confirming that the seller is the owner of the property being sold. A warranty is a term of a contract, but not usually a condition of the contract or an innominate term, meaning that it is a term "not going to the root of the contract", and therefore only entitles the innocent party to damages if it is breached, i.e. if the warranty is not true or the defaulting party does not perform the contract in accordance with the terms of the warranty. A warranty is not a guarantee: it is a mere promise. It may be enforced if it is breached by an award for the legal remedy of damages.
+Depending on the terms of the contract, a product warranty may cover a product such that a manufacturer provides a warranty to a consumer with whom the manufacturer has no direct contractual relationship because it is purchased via an intermediary.
+A warranty may be express or implied. An express warranty is expressly stated (typically, written); whether or not a term will be implied into a contract depends on the particular contract law of the country in question. Warranties may also state that a particular fact is true at a point in time, or that the fact will continue into the future (a "continuing warranty").
+
+
+Express warranty
+
+Express warranties are created when the seller makes a guarantee to the buyer that the product or service being offered has certain qualities. For there to exist an express warranty, a statement regarding the product or service must be made to the buyer and the statement must play a role in the buyer's decision to purchase the product or service. If, after purchase, the buyer feels that the given statement was a misrepresentation of the actual product or service, the buyer can file for breach of express warranty.
+
+
+Implied warranty
+
+Implied warranties are unwritten promises that arise from the nature of the transaction, and the inherent understanding by the buyer, rather than from the express representations of the seller. 
+
+
+Sale of goods
+
+Warranties provided in the sale of goods (tangible products) vary according to jurisdiction, but commonly new goods are sold with implied warranty that the goods are as advertised. Used products, however, may be sold "as is" with no warranties. Each country, however, defines its own parameters with regard to implied conditions or implied warranties. The rules regarding warranties are largely standardised; i.e., the concepts of offer, acceptance, consideration, capacity to contract and intention to create legal relations. Those are the five elements to create a legally binding contract in the Unit

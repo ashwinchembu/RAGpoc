@@ -1,0 +1,34 @@
+Title: Country Profile: British Indian Ocean Territory
+Source: REST Countries API
+URL: https://restcountries.com/
+
+============================================================
+
+Country: British Indian Ocean Territory
+
+Official Name: British Indian Ocean Territory
+
+Capital: Diego Garcia
+
+Region: Africa
+Subregion: Eastern Africa
+
+Population: 0
+
+Area: 60.0 km²
+
+Languages: English
+
+Currencies: United States dollar ($)
+
+Timezones: UTC+06:00
+
+Borders: No land borders
+
+Top Level Domain: .io
+
+Calling Code: +46
+
+Independent: No
+
+UN Member: No

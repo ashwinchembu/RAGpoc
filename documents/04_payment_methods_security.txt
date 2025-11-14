@@ -1,0 +1,201 @@
+Payment Methods and Security
+
+Accepted Payment Methods
+
+Credit and Debit Cards
+We accept all major credit and debit cards:
+- Visa
+- Mastercard
+- American Express
+- Discover
+- JCB (for international orders)
+- Maestro (for European customers)
+
+Digital Wallets
+Quick and secure checkout with:
+- Apple Pay
+- Google Pay
+- Samsung Pay
+- PayPal
+- Venmo
+- Amazon Pay
+
+Alternative Payment Methods
+- Bank transfers (for orders over $1,000)
+- Wire transfers (international)
+- Company purchase orders (B2B customers)
+- Financing options (through Affirm or Klarna)
+- Gift cards and store credit
+- Cryptocurrency (Bitcoin, Ethereum) - select items
+
+Buy Now, Pay Later Options
+Partner with leading BNPL services:
+- Afterpay: 4 payments over 6 weeks
+- Klarna: Flexible payment plans
+- Affirm: Monthly installments
+- Minimum purchase: $50
+- Credit check may be required
+- No interest on 4-payment plans
+
+Payment Security
+
+Encryption Standards
+All payment information is protected with:
+- 256-bit SSL encryption
+- PCI DSS Level 1 compliance
+- TLS 1.3 protocol
+- End-to-end encryption for all transactions
+
+Data Protection
+Your payment security:
+- No credit card numbers stored on our servers
+- Tokenization for saved payment methods
+- Two-factor authentication available
+- Fraud detection algorithms
+- Real-time transaction monitoring
+
+Card Verification
+Security measures include:
+- CVV/CVC verification required
+- Address Verification System (AVS)
+- 3D Secure authentication (Verified by Visa, Mastercard SecureCode)
+- Unusual activity alerts
+
+Fraud Prevention
+We protect against fraud by:
+- Monitoring suspicious transactions
+- Verifying large or unusual orders
+- Checking billing and shipping address matches
+- Velocity checks on repeat purchases
+- Device fingerprinting technology
+
+Payment Processing
+
+Authorization and Capture
+- Authorization: Funds reserved at checkout
+- Capture: Charged when order ships
+- Pre-authorization: May see temporary hold
+- Authorization expires: 7 days if not captured
+
+Payment Holds
+Temporary holds may occur:
+- First-time customers
+- Large order amounts (over $500)
+- Shipping to different address than billing
+- International orders
+- Multiple orders in short timeframe
+
+Failed Payments
+If payment doesn't process:
+- Check card expiration date
+- Verify billing address matches card
+- Ensure sufficient funds available
+- Contact your bank about international transactions
+- Try alternative payment method
+- Contact our support team
+
+Refunds and Credits
+
+Refund Methods
+- Original payment method (standard)
+- Store credit (optional, immediate)
+- Gift card (optional)
+- Bank transfer (for wire payments)
+
+Refund Timing
+Processing times by payment type:
+- Credit/Debit cards: 5-7 business days
+- PayPal: 3-5 business days
+- Apple Pay/Google Pay: 5-7 business days
+- Bank transfer: 7-10 business days
+- Store credit: Immediate
+
+Partial Refunds
+Available for:
+- Returned items in order
+- Damaged items (keep and refund)
+- Price adjustments
+- Missing items from order
+
+Currency and International Payments
+
+Multi-Currency Support
+Prices displayed in:
+- USD (United States Dollar)
+- EUR (Euro)
+- GBP (British Pound)
+- CAD (Canadian Dollar)
+- AUD (Australian Dollar)
+- JPY (Japanese Yen)
+- Currency auto-detected by location
+
+Exchange Rates
+- Updated daily
+- Competitive rates applied
+- No hidden currency conversion fees
+- Charged in your selected currency
+
+International Transaction Fees
+Please note:
+- Your bank may charge foreign transaction fees
+- Currency conversion fees may apply
+- We display all our fees at checkout
+- No surprise charges from our end
+
+Saved Payment Methods
+
+Secure Storage
+Benefits of saving payment info:
+- Faster checkout process
+- One-click ordering
+- Subscription management
+- Tokenized storage (PCI compliant)
+- Easy to update or remove
+
+Managing Saved Cards
+In your account:
+- Add or remove payment methods
+- Set default payment method
+- Update expiration dates
+- View last 4 digits only
+- Nickname your cards for easy identification
+
+Business and Corporate Payments
+
+Purchase Orders
+For approved business accounts:
+- Net 30 payment terms
+- PO number required
+- Credit application necessary
+- Minimum order: $500
+
+Corporate Accounts
+Benefits include:
+- Invoicing available
+- Consolidated billing
+- Multiple user access
+- Volume discounts
+- Dedicated account manager
+
+Tax Exemption
+Tax-exempt organizations:
+- Upload tax exemption certificate
+- Verify with each order
+- Separate billing for different states
+- Resubmit annually
+
+Payment Support
+
+Having payment issues?
+Contact our payment support team:
+- Email: payments@example.com
+- Phone: 1-800-PAYMENT
+- Hours: 24/7 for urgent payment issues
+- Live chat: Available on website
+- Response time: Under 1 hour
+
+Common Payment Questions
+- "Why was my payment declined?" - Check with your bank
+- "When will I be charged?" - When order ships
+- "Can I split payment?" - Not currently available
+- "Do you accept checks?" - Business accounts only

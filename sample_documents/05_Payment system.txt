@@ -1,0 +1,15 @@
+Title: Payment system
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Payment_system
+
+============================================================
+
+A payment system is any system used to settle financial transactions through the transfer of monetary value. This includes the institutions, payment instruments such as payment cards, people, rules, procedures, standards, and technologies that make its exchange possible. A payment system is an operational network which links bank accounts and provides for monetary exchange using bank deposits. Some payment systems also include credit mechanisms, which are essentially a different aspect of payment.
+Payment systems are used in lieu of tendering cash in domestic and international transactions. This consists of a major service provided by banks and other financial institutions. Traditional payment systems include negotiable instruments such as drafts (e.g., cheques) and documentary credits such as letters of credit.  With the advent of computers and electronic communications, many alternative electronic payment systems have emerged. The term electronic payment refers to a payment made from one bank account to another using electronic methods and forgoing the direct intervention of bank employees. Narrowly defined electronic payment refers to e-commerce—a payment for buying and selling goods or services offered through the Internet, or broadly to any type of electronic funds transfer.
+Modern payment systems use cash-substitutes as compared to traditional payment systems. This includes debit cards, credit cards, electronic funds transfers, direct credits, direct debits, internet banking and e-commerce payment systems.
+Payment systems may be physical or electronic and each has its own procedures and protocols. Standardization has allowed some of these systems and networks to grow to a global scale, but there are still many country-specific and product-specific systems. Examples of payment systems that have become globally available are credit card and automated teller machine (ATM) networks. Additionally, forms exist to transfer funds between financial institutions. Domestically this is accomplished by using Automated clearing house (ACH) and real-time gross settlement (RTGS) systems. Internationally this is accomplished by correspondent banking (possibly using the SWIFT network) or a more centralised system like the CLS settlement system.
+
+
+Domestic
+An efficient national payment system reduces the cost of exchanging goods, services, and assets. It is indispensable to the functioning of the interbank, money, and capital markets. A weak payment system may severely drag on the stability and developmental capacity of a national economy. Such failures can result in inefficient use of financial resources, inequitable risk-sharing among agents, actual losses for participants, and loss of confidence in the financial system and in the very use of money. The technical efficiency of the payment system is important for the development of the economy.
+An automated clearing house (ACH) system processes transactions in batches, storing, and transmitting them in group

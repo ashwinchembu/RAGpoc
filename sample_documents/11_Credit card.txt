@@ -1,0 +1,18 @@
+Title: Credit card
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Credit_card
+
+============================================================
+
+A credit card (or charge card) is a payment card, usually issued by a bank, allowing its users to purchase goods or services, or withdraw cash, on credit. Using the card thus accrues debt that has to be repaid later. Credit cards are one of the most widely used forms of payment across the world.
+A regular credit card differs from a charge card, which requires the balance to be repaid in full each month, or at the end of each statement cycle. In contrast, credit cards allow consumers to build a continuing balance of debt, subject to interest being charged at a specific rate. A credit card also differs from a charge card in that a credit card typically involves a third-party entity that pays the seller, and is reimbursed by the buyer, whereas a charge card simply defers payment by the buyer until a later date. A credit card also differs from a debit card, which can be used like currency by the owner of the card.
+As of June 2018, there were 7.753 billion credit cards in the world. In 2020, there were 1.09 billion credit cards in circulation in the United States, and 72.5% of adults (187.3 million) in the country had at least one credit card.
+
+
+Technical specifications
+
+The size of most credit cards is 85.60 by 53.98 millimetres (3+3⁄8 in × 2+1⁄8 in) and rounded corners with a radius of 2.88–3.48 millimetres (9⁄80–11⁄80 in) conforming to the ISO/IEC 7810 ID-1 standard, the same size as ATM cards and other payment cards, such as debit cards. Most credit cards are made of plastic, but some are made from metal.
+Credit cards have a printed or embossed bank card number complying with the ISO/IEC 7812 numbering standard. The card number's prefix, called the Bank Identification Number (known in the industry as a BIN), is the sequence of digits at the beginning of the number that determine the bank to which a credit card number belongs. This is the first six digits for MasterCard and Visa cards. The next nine digits are the individual account number, and the final digit is a validity check digit.
+Both of these standards are maintained and further developed by ISO/IEC JTC 1/SC 17/WG 1. Credit cards have a magnetic stripe conforming to the ISO/IEC 7813. Most modern credit cards use smart card technology: they have a computer chip embedded in them as a security feature. In addition, complex smart cards, including peripherals such as a keypad, a display or a fingerprint sensor are increasingly used for credit cards.
+In addition to the main credit card number, credit cards also carry issue and expiration dates (given to the nearest month), as well as extra codes such as issue numbers and security codes. Complex smart cards allow to have a variable security code, thus increasing security for online transactions. Not all credit cards have the same sets of extra codes nor do they use the same number of digits.
+Credit card numbers and cardholder names were originally embossed, to allow for easy transfer of such information to charge slips printed on carbon paper form

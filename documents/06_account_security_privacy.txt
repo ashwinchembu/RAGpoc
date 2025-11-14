@@ -1,0 +1,312 @@
+Account Security and Privacy
+
+Creating a Secure Account
+
+Password Requirements
+Create a strong password with:
+- Minimum 12 characters
+- Mix of uppercase and lowercase letters
+- At least one number
+- At least one special character (!@#$%^&*)
+- No dictionary words
+- No personal information (name, birthday)
+- Different from other site passwords
+
+Password Strength Indicator
+Our system provides:
+- Real-time strength feedback
+- Suggestions for improvement
+- Common password warnings
+- Breach database checking
+- Estimated crack time display
+
+Two-Factor Authentication (2FA)
+
+Why Enable 2FA
+Additional security layer:
+- Protects against password theft
+- Required for sensitive operations
+- Recommended for all users
+- Mandatory for orders over $1,000
+
+2FA Methods Available
+Choose your preferred method:
+- SMS text message
+- Authenticator app (Google, Microsoft, Authy)
+- Email verification code
+- Biometric (Face ID, Touch ID)
+- Hardware security keys (YubiKey)
+
+Setting Up 2FA
+Easy 5-step process:
+1. Go to Account Settings
+2. Click "Security"
+3. Select "Enable Two-Factor Authentication"
+4. Choose your method
+5. Verify with test code
+
+Backup Codes
+Recovery options:
+- 10 one-time backup codes provided
+- Store securely offline
+- Each code works once
+- Generate new codes anytime
+- Required if primary method unavailable
+
+Account Access Management
+
+Login Security
+Protection features:
+- Account lockout after 5 failed attempts
+- CAPTCHA after 3 failed attempts
+- Suspicious login alerts
+- New device notifications
+- Login history tracking
+
+Active Sessions
+Monitor your devices:
+- View all logged-in devices
+- See location and browser info
+- Last activity timestamp
+- One-click logout from specific devices
+- Logout from all devices option
+
+Login Notifications
+Get alerts for:
+- Successful logins
+- Failed login attempts
+- New device access
+- Password changes
+- Payment method updates
+- Shipping address changes
+
+Account Recovery
+
+Forgot Password
+Reset process:
+1. Click "Forgot Password" on login page
+2. Enter email address
+3. Check email for reset link
+4. Link valid for 1 hour
+5. Create new password
+6. Confirm with verification code
+
+Security Questions
+Additional verification:
+- Set up 3 security questions
+- Used for phone verification
+- Required for certain account changes
+- Can update questions quarterly
+- Answers are case-sensitive
+
+Account Verification
+Identity verification required for:
+- High-value orders (over $5,000)
+- Account information changes
+- Payment disputes
+- Security concerns
+- Methods: ID upload, video call, documentation
+
+Privacy Settings
+
+Personal Information
+Control what we collect:
+- Required: Name, email, shipping address
+- Optional: Phone, birthday, preferences
+- Update anytime in account settings
+- Request data export (GDPR)
+- Delete personal data option
+
+Communication Preferences
+Choose what you receive:
+- Order confirmations (required)
+- Shipping notifications (required)
+- Marketing emails (optional)
+- SMS promotions (optional)
+- Phone calls (optional)
+- Push notifications (optional)
+- Frequency preferences
+
+Email Preferences
+Customize communications:
+- Daily deals and offers
+- New product announcements
+- Personalized recommendations
+- Abandoned cart reminders
+- Back-in-stock alerts
+- Review requests
+- Newsletter subscription
+
+Marketing and Cookies
+Your choices:
+- Accept all cookies
+- Essential cookies only
+- Customize by category
+- Third-party cookies opt-out
+- Do Not Track browser setting honored
+- Cookie preferences anytime
+
+Data Protection
+
+How We Protect Your Data
+Security measures:
+- 256-bit SSL encryption
+- Encrypted database storage
+- Regular security audits
+- Penetration testing
+- SOC 2 Type II certified
+- ISO 27001 compliant
+- Annual third-party security reviews
+
+Data Storage
+Where your data lives:
+- Secure US-based data centers
+- EU data stored in EU (GDPR)
+- Redundant backups
+- Disaster recovery plan
+- Data retention policies
+- Automatic data deletion schedules
+
+Third-Party Sharing
+We never sell your data. Sharing limited to:
+- Payment processors (for transactions)
+- Shipping carriers (for delivery)
+- Customer service tools (for support)
+- Analytics (anonymized only)
+- Legal requirements only
+- All partners contractually bound
+
+Your Rights
+Under GDPR and CCPA:
+- Right to access your data
+- Right to data portability
+- Right to correct inaccurate data
+- Right to delete your data
+- Right to opt-out of sale (we don't sell)
+- Right to non-discrimination
+
+Privacy Policy
+Complete details:
+- Last updated: January 2024
+- Available at: www.example.com/privacy
+- Plain language summary provided
+- Changes notification: 30 days advance
+- Archive of previous versions
+
+Security Best Practices
+
+Protecting Your Account
+Recommendations:
+- Never share your password
+- Use unique password for our site
+- Enable two-factor authentication
+- Keep email account secure
+- Log out on shared devices
+- Clear browser history on public computers
+- Review account activity regularly
+- Update password every 90 days
+
+Recognizing Phishing
+Red flags to watch for:
+- Emails asking for password
+- Urgent action requests
+- Suspicious sender addresses
+- Misspelled URLs
+- Generic greetings ("Dear Customer")
+- Unexpected attachments
+- Grammar or spelling errors
+
+Legitimate Communication
+How we actually contact you:
+- Always from @example.com domain
+- Never ask for password via email
+- Never request sensitive info via email
+- All payment requests through secure checkout
+- Include your order number
+- Personalized with your name
+
+Security Incidents
+
+If You Suspect Compromise
+Immediate steps:
+1. Change your password immediately
+2. Enable 2FA if not already active
+3. Contact security@example.com
+4. Review recent account activity
+5. Check linked payment methods
+6. Monitor bank statements
+7. File report with authorities if needed
+
+Our Response
+If breach occurs:
+- Immediate notification
+- Required actions clearly stated
+- Free credit monitoring offered
+- Dedicated support line
+- Regular updates provided
+- Full transparency commitment
+
+Data Breach History
+Our record:
+- Zero breaches since founding
+- Proactive security measures
+- Regular security training
+- Bug bounty program
+- Independent security assessments
+
+Account Deletion
+
+Delete Your Account
+Process:
+1. Log into your account
+2. Go to Settings > Privacy
+3. Click "Delete Account"
+4. Confirm via email
+5. Complete any pending orders first
+6. 30-day grace period
+7. Permanent deletion after 30 days
+
+What Gets Deleted
+Removed from our systems:
+- Personal information
+- Order history (non-financial)
+- Saved payment methods
+- Addresses
+- Preferences
+- Wishlists
+- Reviews and ratings
+
+What We Retain
+Legal requirements:
+- Transaction records (7 years)
+- Tax documentation
+- Fraud prevention data
+- Legal communications
+- Warranty information
+- Returns documentation
+
+Children's Privacy
+
+Age Requirements
+- Must be 18+ to create account
+- Parental consent required for under 18
+- Children's products ok to purchase
+- No targeted marketing to children
+- COPPA compliant
+- Special protections for minors
+
+Contact Security Team
+
+Report Security Issues
+- Email: security@example.com
+- Phone: 1-800-SECURITY
+- Response: Within 1 hour for critical issues
+- Bug bounty: rewards for responsible disclosure
+- PGP key available for encrypted communication
+
+Privacy Questions
+- Email: privacy@example.com
+- Data Protection Officer available
+- GDPR/CCPA compliance inquiries
+- Data access requests
+- Privacy impact assessments

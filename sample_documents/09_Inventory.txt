@@ -1,0 +1,28 @@
+Title: Inventory
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Inventory
+
+============================================================
+
+Inventory (British English) or stock (American English) is a quantity of the goods and materials that a business holds for the ultimate goal of resale, production or utilisation.
+Inventory management is a discipline primarily about specifying the shape and placement of stocked goods. It is required at different locations within a facility or within many locations of a supply network to precede the regular and planned course of production and stock of materials.
+The concept of inventory, stock or work in process (or work in progress) has been extended from manufacturing systems to service businesses  and projects, by generalizing the definition to be "all work within the process of production—all work that is or has occurred prior to the completion of production". In the context of a manufacturing production system, inventory refers to all work that has occurred—raw materials, partially finished products, finished products prior to sale and departure from the manufacturing system. In the context of services, inventory refers to all work done prior to sale, including partially process information.
+
+
+Business inventory
+
+
+Reasons for keeping stock
+There are five basic reasons for keeping an inventory:
+
+Time: The time lags present in the supply chain, from supplier to user at every stage, requires that you maintain certain amounts of inventory to use in this lead time. However, in practice, inventory is to be maintained for consumption during 'variations in lead time'. Lead time itself can be addressed by ordering that many days in advance.
+Seasonal demand: Demands varies periodically, but producers capacity is fixed. This can lead to stock accumulation, consider for example how goods consumed only in holidays can lead to accumulation of large stocks on the anticipation of future consumption.
+Uncertainty: Inventories are maintained as buffers to meet uncertainties in demand, supply and movements of goods.
+Economies of scale: Ideal condition of "one unit at a time at a place where a user needs it, when he needs it" principle tends to incur lots of costs in terms of logistics. So bulk buying, movement and storing brings in economies of scale, thus inventory.
+Appreciation in value: In some situations, some stock gains the required value when it is kept for some time to allow it reach the desired standard for consumption, or for production. For example, beer in the brewing industry.
+All these stock reasons can apply to any owner or product.
+
+
+Special terms used in dealing with inventory management
+Stock Keeping Unit (SKU) SKUs are clear, internal identification numbers assigned to each of the products and their variants. SKUs can be any combination of letters and numbers chosen, just as long as the system is consistent and used for all the products in the inventory. An SKU code may also be referred to as product code, barcode, part number or MPN (Manufacturer's Part Number).
+"New old stock" (sometimes abbreviated NOS) is a term used in business to refer t

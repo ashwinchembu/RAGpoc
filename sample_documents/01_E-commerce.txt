@@ -1,0 +1,35 @@
+Title: E-commerce
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/E-commerce
+
+============================================================
+
+E-commerce (electronic commerce) refers to commercial activities including the electronic buying or selling products and services which are conducted on online platforms or over the Internet. E-commerce draws on technologies such as mobile commerce, electronic funds transfer, supply chain management, Internet marketing, online transaction processing, electronic data interchange (EDI), inventory management systems, and automated data collection systems. E-commerce is a part of the retail, the largest segment of the electronics industry and is in turn driven by the technological advances of the semiconductor industry.
+
+
+Defining e-commerce
+The term was coined and first employed by Robert Jacobson, Principal Consultant to the California State Assembly's Utilities & Commerce Committee, in the title and text of California's Electronic Commerce Act, carried by the late Committee Chairwoman Gwen Moore (D-L.A.) and enacted in 1984.
+E-commerce typically uses the web for at least a part of a transaction's life cycle although it may also use other technologies such as e-mail. Typical e-commerce transactions include the purchase of products (such as books from Amazon) or services (such as music downloads in the form of digital distribution such as the iTunes Store). There are three areas of e-commerce: online retailing, electronic markets, and online auctions. E-commerce is supported by electronic business. The existence value of e-commerce is to allow consumers to shop online and pay online through the Internet, saving the time and space of customers and enterprises, greatly improving transaction efficiency, especially for busy office workers, and also saving a lot of valuable time.
+E-commerce businesses may also employ some or all of the following:
+
+Online shopping for retail sales direct to consumers via web sites and mobile apps, conversational commerce via live chat, chatbots, and voice assistants.
+Providing or participating in online marketplaces, which process third-party business-to-consumer (B2C) or consumer-to-consumer (C2C) sales;
+Business-to-business (B2B) buying and selling.
+Direct-to-Consumer(D2C) sales, in which manufactures or brands sell directly to end customers without traditional retail intermediaries. This model has expanded rapidly with the growth of digital storefronts and social commerce platforms such as Shopify, TikTok Shop, and Instagram Checkout.
+Data-driven marketing, gathering demographic and behavioral data through web analytics and social media.
+B2B electronic data interchange.
+Marketing to prospective and established customers by e-mail or fax (for example, with newsletters).
+Engaging in pretail for launching new products and services.
+Online financial exchanges for currency exchanges or trading purposes.
+There are five essential categories of E-commerce:
+
+Business to Business
+Business to Consumer
+Business to Government
+Consumer to Business
+Consumer to Consumer
+Direct to Consumer
+
+
+Forms
+Contemporary electronic commerce can b

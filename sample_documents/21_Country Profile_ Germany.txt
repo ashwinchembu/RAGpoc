@@ -1,0 +1,34 @@
+Title: Country Profile: Germany
+Source: REST Countries API
+URL: https://restcountries.com/
+
+============================================================
+
+Country: Germany
+
+Official Name: Federal Republic of Germany
+
+Capital: Berlin
+
+Region: Europe
+Subregion: Western Europe
+
+Population: 83,491,249
+
+Area: 357,114.0 km²
+
+Languages: German
+
+Currencies: Euro (€)
+
+Timezones: UTC+01:00
+
+Borders: AUT, BEL, CZE, DNK, FRA, LUX, NLD, POL, CHE
+
+Top Level Domain: .de
+
+Calling Code: +9
+
+Independent: Yes
+
+UN Member: Yes

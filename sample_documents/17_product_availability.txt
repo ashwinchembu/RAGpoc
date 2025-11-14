@@ -1,0 +1,248 @@
+PRODUCT AVAILABILITY
+
+Stock Information and Product Notifications
+
+Real-Time Inventory:
+- Stock levels updated every 15 minutes
+- Shown on product pages
+- "In Stock" = Ships within 24 hours
+- "Low Stock" = Less than 10 units
+- "Out of Stock" = Currently unavailable
+- "Pre-Order" = Coming soon
+
+Stock Indicators:
+
+In Stock:
+- Available for immediate shipment
+- Order today, ships today (if by 2pm EST)
+- Guaranteed availability
+- Standard delivery times apply
+
+Low Stock:
+- Limited quantities remaining
+- First come, first served
+- May sell out before order processed
+- Consider expedited shipping
+- Similar items suggested
+
+Out of Stock:
+- Currently unavailable
+- Restock date estimated if known
+- Sign up for restock notifications
+- Similar in-stock alternatives shown
+- Backorder option may be available
+
+Pre-Order:
+- Product not yet released
+- Reserve your item now
+- Charged when item ships
+- Expected release date shown
+- Ships immediately upon release
+- Cancel anytime before shipment
+
+Backorder Options:
+
+How Backorders Work:
+1. Add out-of-stock item to cart
+2. Select "Backorder" at checkout
+3. Estimated ship date provided
+4. Order held until item available
+5. Charged only when shipped
+6. Cancel anytime before shipment
+
+Backorder Benefits:
+- Guarantee you get the item
+- No need to keep checking
+- Price locked in
+- Notification when shipped
+- No additional cost
+
+Restock Notifications:
+
+Email Alerts:
+- Sign up on product page
+- Notification when back in stock
+- 48-hour early access
+- Limited quantities may apply
+- Unsubscribe anytime
+
+SMS Alerts:
+- Instant text notification
+- Even faster than email
+- Opt-in on product page
+- Standard messaging rates apply
+
+App Notifications:
+- Push notifications
+- Real-time alerts
+- One-tap to purchase
+- Exclusive app user benefits
+
+Discontinued Products:
+
+When Products Are Discontinued:
+- Marked clearly on product page
+- Available while supplies last
+- No restocks coming
+- Alternative products suggested
+- Final sale pricing may apply
+
+Finding Alternatives:
+- "Similar Items" section
+- Updated/newer models
+- Comparable features
+- Customer recommendations
+- Support team can assist
+
+Seasonal Availability:
+
+Seasonal Products:
+- Available during specific times of year
+- Return next season
+- Pre-order for next season
+- Sign up for season notifications
+- Storage solutions offered
+
+Holiday Items:
+- Limited edition
+- Holiday-specific
+- Early bird availability
+- May sell out quickly
+- Plan ahead
+
+New Product Launches:
+
+Coming Soon:
+- Sneak peeks on website
+- Email announcements
+- Social media reveals
+- Pre-order opportunities
+- Launch day events
+
+Early Access:
+- Loyalty members: 72 hours early
+- Email subscribers: 48 hours early
+- App users: 24 hours early
+- General public: Launch day
+
+Limited Editions:
+- Small production runs
+- Numbered items
+- Certificate of authenticity
+- Collector's items
+- May appreciate in value
+- No restocks
+
+Regional Availability:
+
+Location-Based Stock:
+- Some items region-specific
+- Shown based on shipping address
+- International availability varies
+- Check product page for details
+
+International Customers:
+- Different inventory
+- Region-specific restrictions
+- Customs considerations
+- Availability may vary by country
+
+Store vs Online:
+
+Online Exclusive:
+- Not available in physical stores
+- Web-only items
+- Broader selection
+- Direct to door convenience
+
+Store Exclusive:
+- In-store only items
+- Local inventory
+- Store locator available
+- Call ahead to confirm
+
+Stock Checking:
+
+Check Before You Buy:
+- Product page shows current stock
+- Add to cart to verify availability
+- Cart reserves item for 15 minutes
+- Complete purchase to secure item
+
+Store Locator:
+- Find nearby store locations
+- Check local inventory
+- Reserve for in-store pickup
+- Get directions
+- Store hours and info
+
+Bulk Orders:
+
+Large Quantity Needs:
+- Contact for availability
+- May require special order
+- Volume discounts available
+- Extended lead times possible
+- Minimum quantities may apply
+
+Corporate Orders:
+- Dedicated account manager
+- Custom inventory arrangements
+- Scheduled deliveries
+- Guaranteed availability
+- Contract pricing
+
+Waitlist:
+
+Join the Waitlist:
+- For highly anticipated items
+- Guaranteed purchase opportunity
+- Priority ordering
+- Email notification
+- 48-hour purchase window
+
+Waitlist Priority:
+1. Pre-order customers
+2. Loyalty program members
+3. Email subscribers
+4. Waitlist sign-ups
+5. General public
+
+Inventory Updates:
+
+How Often We Restock:
+- Popular items: Weekly
+- Standard items: Bi-weekly
+- Seasonal items: Monthly
+- Special orders: 4-6 weeks
+
+Restock Day:
+- New inventory Tuesdays
+- Updates go live 6am EST
+- Best selection early morning
+- Quick-moving items sell out fast
+
+Predicting Restocks:
+- Historical patterns
+- Season schedules
+- Supplier timelines
+- Contact support for estimates
+
+Price Changes:
+
+Stock and Pricing:
+- Prices subject to change
+- Price locked when added to cart (15 min)
+- Price locked at checkout
+- Order confirmation shows final price
+
+Price Drops:
+- Automatic refund if price drops within 14 days
+- No action needed
+- Refunded to original payment
+- Email notification
+
+Contact:
+Stock inquiries: inventory@company.com
+Phone: 1-800-IN-STOCK
+Chat: Available on product pages

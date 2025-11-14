@@ -1,0 +1,18 @@
+Title: Shopping cart software
+Source: Wikipedia
+URL: https://en.wikipedia.org/wiki/Shopping_cart_software
+
+============================================================
+
+Shopping cart software is e-commerce software on a web server that allows visitors to select items for eventual purchase.
+The software allows online shopping customers to accumulate a list of items for purchase. At the point of sale, the software typically calculates a total for the order, including freight transport, postage as well as packaging and labeling. Associated taxes are calculated as applicable. This software also allows for a final review of the shortlisted purchase and the choice for a user to modify the purchase. The data is used in online marketing particularly in the form of abandoned carts.
+
+
+History
+The development of web shop systems took place right after the Internet became a mass medium. This was a result of the launch of the browser Mosaic in 1993 and Netscape in 1994. It created an environment in which web shops were possible. The Internet therefore acted as the key infrastructure development that contributed to the rapid diffusion of the e-commerce, a subset of e-business that describes all computer-aided business transactions. In 1998 a total of 11 e-business models were observed, one of which was e-shop business model for a B2C (business-to-consumer) business—also called the “online shop” The two terms “online shop” and “electronic” or “e-shop” are used interchangeably. The term “online shopping” was invented much earlier in 1984.  Today the term primarily refers to the business-to-consumer transactional business. In order to enable “online shopping” a software system is needed. Since “online shopping”, in the context of the B2C business model, became broadly available to the end consumer, internet-based “online shops” evolved.
+
+
+Technical definition
+These applications typically provide a means of capturing a client's payment information, but in the case of a credit card they rely on the software module of the secure gateway provider, in conjunction with the secure payment gateway, in order to conduct secure credit card transactions online.
+Some setup must be done in the HTML code of the website, and the shopping cart software must be installed on the server which hosts the site, or on the server which accepts sensitive ordering information. E-shopping carts are usually implemented using HTTP cookies or query strings. In most server based implementations however, data related to the shopping cart is kept in the session object and is accessed and manipulated on the fly, as the user selects different items from the cart. Later in the process of finalizing the transaction, the information is accessed and an order is generated against the selected item thus clearing the shopping cart.
+Although the most simple shopping carts strictly allow for an item to be added to a basket to start a checkout process (e.g., the free PayPal shopping cart), most shopping cart software provides additional features that an Internet merchant uses to fully manage an online store. Data (products, categories, discounts, orders, customers, etc.) is
